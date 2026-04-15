@@ -1,0 +1,92 @@
+<html>
+
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0
+
+<title>Growth Hackers</title>
+
+</head>
+
+<body>
+
+<header>
+
+<a href="#home>Home</a>
+
+<a href="#services>Services</o
+
+<a href="#stats">Stats</a>
+
+<a href="#contact Contact</a>
+
+</nav>
+
+</header>
+
+<section id=home">
+
+<h1>Growth Hackers</h1>
+
+<p>We scale your business with data-driven marketing strategies.</p>
+
+<a href="#services Explore Services</a>
+
+</section>
+
+<section id services>
+
+<h2>Our Service Packages</h2>
+
+<table border="1">
+
+<tr><th>Features</th><th>Basic</th><th>Pro</th><th>Premium</th></tr>
+
+<4><td>SEO</td><td> </td><td> </td><td> </td></tr>
+
+<><td>Social Media</td><td> </td><td> </td><td> </td></tr>
+
+<tr><td>Email</td><td></td><td> </td><td> </td></tr>
+
+<><td>Manager</td><td></td><td> </td><td> </td></tr>
+
+</table>
+
+</section>
+<section id="stats">
+
+<h2>Our Achievements</h2>
+
+<p>500+ Clients</p>
+
+<p>1200+ Campaigns</p>
+
+<p>300% Growth</p>
+
+</section>
+
+<section id="contact">
+
+<h2>Subscribe</h2>
+
+<form>
+
+<input type="email" required placeholder="Email">
+
+<button type="submit">Subscribe</button>
+
+</form>
+
+<p>Thank you for visiting!</p>
+
+</section>
+
+<footer>
+
+<p>© 2026 Growth Hackers Agency</p>
+
+</footer>
+
+</body>
+
+</html>
